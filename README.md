@@ -1,6 +1,7 @@
 # Ma6
 Homework sets for Ma6a
-Caltech Honor Code: “No member of the Caltech community shall take unfair advantage of any other member of the Caltech community.”
+
+_Caltech Honor Code: “No member of the Caltech community shall take unfair advantage of any other member of the Caltech community.”_
 
 ## PSET 1
 Mod arithmetic, Euclidian extended algorithm, RSA algorithm, Fibonnacci numbers
